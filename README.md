@@ -13,6 +13,13 @@ Minimal PowerShell script to enable the hidden **Ultimate Performance** power pl
 - Activates it automatically
 - Shows confirmation popup
 
+## Download
+
+Download here | hashfile
+--|--
+[EnableUltimatePerformance.ps1](https://github.com/fel-dev/Enable-Ultimate-Performance-power-plan-universal-version-/releases/download/0.1/EnableUltimatePerformance.ps1) | sha256:e2d13088841b60e22377198264f4999c72bbd83e63f9078657fec814e6a15368
+[Releases page (optional)](https://github.com/fel-dev/Enable-Ultimate-Performance-power-plan-universal-version-/releases) | 
+
 ## 🚀 Quick Start
 
 ### Run with Admin (recommended)
